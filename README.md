@@ -12,3 +12,4 @@
   - Country recommendation (Japan)
 
 ## Project Structure
+├── index.html # Home page ├── about.html # About Us page ├── contact.html # Contact Us page ├── submit_form.php # PHP form handler (Note: This won't work on GitHub Pages) ├── style.css # CSS for styling the website ├── script.js # JavaScript functionality (optional) └── images/ # Folder containing images used in the website
